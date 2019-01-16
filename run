@@ -1,0 +1,14 @@
+#!/bin/bash
+set -euo pipefail
+
+run() {
+  echo "Example: $1"
+  z3 -file $1.smt2
+}
+
+this_dir=$(cd $(dirname $0); pwd -P)
+
+cd $this_dir
+
+run ex1
+run ex2
