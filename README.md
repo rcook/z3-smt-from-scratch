@@ -39,11 +39,13 @@ The shell script [`run`](run) can be used to run all the examples.
 * [The SMT-LIBv2 Language and Tools: A Tutorial][smtlib-tutorial] by David R. Cok
 * [SAT/SMT by Example][sat-smt-by-example] by Dennis Yurichev
 * [Object-Oriented Security Proofs][cohen] by Ernie Cohen
+* [MathSAT][mathsat]
 
 ## Licence
 
 [MIT License](LICENSE)
 
 [cohen]: http://www0.cs.ucl.ac.uk/staff/b.cook/cohen.pdf
+[mathsat]: http://mathsat.fbk.eu/
 [sat-smt-by-example]: https://yurichev.com/writings/SAT_SMT_by_example.pdf
 [smtlib-tutorial]: https://smtlib.github.io/jSMTLIB/SMTLIBTutorial.pdf
