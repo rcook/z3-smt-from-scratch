@@ -10,5 +10,6 @@ this_dir=$(cd $(dirname $0); pwd -P)
 
 cd $this_dir
 
-run ex1
-run ex2
+#run ex1
+#run ex2
+run mathsat1

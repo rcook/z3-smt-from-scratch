@@ -30,6 +30,7 @@ rm z3.zip
 
 * [Example 1](ex1.smt2)
 * [Example 2](ex2.smt2)
+* [MathSAT example 1](mathsat1.smt2)
 
 The shell script [`run`](run) can be used to run all the examples.
 
